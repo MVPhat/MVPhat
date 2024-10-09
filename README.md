@@ -1,6 +1,14 @@
-<h2 align="left">Hi 👋! I'm Phat, a graduate student, from University of Science</h2>
+<h1 align="left">Hi 👋! I'm Phat</h1>
 
 ###
+<img align="right" height="250" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnNmaGo1OGdia3NnNTdoZWt4NXNmN2d2Nm5oc3dkenJ1cnc1ZTY4OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif"  />
+
+###
+
+<p align="left">🎓 I'm a graduate student from University of Science (VNUHCM).<br><br>💻 I have a strong interest in Machine Learning, Deep Learning, Data Science as well as Front-End design.<br><br>⚡ I'm currently learning Docker and relevant technologies for AI.<br><br>💪 Working hard for seeking new opportunities.<br><br>🚀 Enhancing my English skills frequently for IELTS 7.0+ certificate in the future (6.0 overall currently).<br><br>🌱 In my free time, I also enjoy exploring new programming languages and frameworks.</p>
+
+
+---
 
 <div align="center" style="padding: 10px">
   <h3 style="margin: 10px;">Github stats and Programming Languages</h3> 
@@ -12,10 +20,9 @@
 </div>
 
 ###
+---
 
-<h5 align="left">Some highlights that I have learnt during my university eduacation and internship:</h5>
-
-###
+<h3 align="left">Some highlights that I have learnt thanks to my university eduacation and internship:</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
@@ -36,7 +43,8 @@
 </div>
 
 ###
-
+------
+<h3 align="center">Connect with me</h3>
 <div align="center">
   <a href="https://www.linkedin.com/in/vinh-phat-mach-2bb6b4278/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
@@ -48,19 +56,5 @@
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
   </a>
 </div>
-
-###
-
-<img align="right" height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnNmaGo1OGdia3NnNTdoZWt4NXNmN2d2Nm5oc3dkenJ1cnc1ZTY4OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif"  />
-
-###
-
-<p align="left">⚡ I'm currently learning Docker and relevant technologies for AI.<br><br>💪 Working hard for seeking new opportunities.<br><br>🚀 Enhancing my English skills frequently for IELTS 7.0+ certificate in the future (6.0 overall currently).</p>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/mvphat/mvphat/output/snake.svg" alt="Snake animation" />
 
 ###
