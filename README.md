@@ -2,14 +2,18 @@
 
 ###
 
+<div align="center" style="padding: 10px">
+  <h3 style="margin: 10px;">Github stats and Programming Languages</h3> 
+<br/>
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mvphat&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mvphat&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=MVPhat&show_icons=true&theme=highcontrast&rank_icon=github" height="165" width="400">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MVPhat&layout=compact&theme=highcontrast&langs_count=6" height="165" width="400">
 </div>
 
 ###
 
-<h6 align="left">Some highlights that I have learnt during my university eduacation and internship:</h6>
+<h5 align="left">Some highlights that I have learnt during my university eduacation and internship:</h5>
 
 ###
 
@@ -39,6 +43,9 @@
   </a>
   <a href="mailto:machvinhphat2002@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.facebook.com/phat.411/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
   </a>
 </div>
 
